@@ -1,9 +1,14 @@
 If soft locked press ESC
+
+Press SPACE to skip cutscenes
+
 If a box goes out of bounds,
 or a rat escapes ANY ROOMS.
 The game is considered softlocked
 
-Press SPACE to skip cutscenes
+honestly theres like a million bugs probably, i havent had time to test them all
+so if anything weird happens, just hit ESC
+
 
 
 A couple hints if you cannot figure out the solution to the third level
